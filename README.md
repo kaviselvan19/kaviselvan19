@@ -32,7 +32,7 @@
 💬 [**Instagram Clone**](#) – Flutter + Firebase for a seamless social experience  
 🧠 [**AI 3D Room Visualizer**](#) – AI-driven 3D design enhancement project  
 
-> *(Add your real GitHub project links above once you upload them!)*
+
 
 ---
 
